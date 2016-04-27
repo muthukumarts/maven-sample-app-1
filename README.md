@@ -2,8 +2,8 @@
 
 ## Installation
 
-- Install Java
-- Install Maven
+##- Install Java
+##- Install Maven
 
 - Build package: `$ mvn clean install`
 
